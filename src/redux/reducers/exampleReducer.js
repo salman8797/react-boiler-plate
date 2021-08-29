@@ -1,0 +1,20 @@
+import {  GET_USER_FAILED, GET_USER_REQUESTED, GET_USER_SUCCESS } from "../constantType";
+
+const initialState = {
+    users: [],
+    loading: false,
+    error : null
+}
+
+export default function exampleReducer(state = initialState, action) {
+    switch (action.type) {
+        case GET_USER_SUCCESS:
+            return { ...state, loading: false, users: action.payload };
+        case GET_USER_REQUESTED:
+            return { ...state, loading: true };
+        case GET_USER_FAILED:
+            return { ...state, loading: false, error : action.payload };
+        default:
+            return state;
+    }
+}
