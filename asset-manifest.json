@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-boiler-plate/static/css/main.a617e044.chunk.css",
+    "main.js": "/react-boiler-plate/static/js/main.a146c45f.chunk.js",
+    "main.js.map": "/react-boiler-plate/static/js/main.a146c45f.chunk.js.map",
+    "runtime-main.js": "/react-boiler-plate/static/js/runtime-main.59a1413e.js",
+    "runtime-main.js.map": "/react-boiler-plate/static/js/runtime-main.59a1413e.js.map",
+    "static/js/2.65eeee8b.chunk.js": "/react-boiler-plate/static/js/2.65eeee8b.chunk.js",
+    "static/js/2.65eeee8b.chunk.js.map": "/react-boiler-plate/static/js/2.65eeee8b.chunk.js.map",
+    "static/js/3.6eaa9be1.chunk.js": "/react-boiler-plate/static/js/3.6eaa9be1.chunk.js",
+    "static/js/3.6eaa9be1.chunk.js.map": "/react-boiler-plate/static/js/3.6eaa9be1.chunk.js.map",
+    "index.html": "/react-boiler-plate/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/react-boiler-plate/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.65eeee8b.chunk.js.LICENSE.txt": "/react-boiler-plate/static/js/2.65eeee8b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.59a1413e.js",
+    "static/js/2.65eeee8b.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.a146c45f.chunk.js"
+  ]
+}
